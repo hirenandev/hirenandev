@@ -4,6 +4,8 @@ Welcome to my GitHub profile!
 
 👨‍💻 I'm a Senior Full Stack Developer with 8+ years of experience specializing in MERN & MEAN stack development, along with a strong background in building scalable and efficient web applications using React.js, Next.js, Angular, Node.js, Nest.js, and Python frameworks (Django, Flask, FastAPI).
 
+🤖 I also actively leverage AI-assisted development tools such as Claude Code, Cursor, and GitHub Copilot to enhance productivity, improve code quality, and accelerate delivery. I’ve applied these tools in real-world projects for automation, data extraction, and efficient system design, enabling faster and more reliable development.
+
 🚀 About Me  
 I have a passion for developing user-centric solutions that drive business growth and enhance user experiences. Over the years, I've contributed to numerous projects, solving complex problems using modern technologies and delivering high-performance, scalable systems.
 
